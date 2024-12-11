@@ -3,6 +3,7 @@
 
 I am a 3rd year transfer student who is going into the computer science major and I plan on graduating 2027.
 
+Link to github account: https://github.com/JLopez521
 
 ## Favorite CPSC 120L labs
 
